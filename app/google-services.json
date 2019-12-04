@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "403809923128",
+    "firebase_url": "https://fir-47fd1.firebaseio.com",
+    "project_id": "fir-47fd1",
+    "storage_bucket": "fir-47fd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403809923128:android:1efdb42b198ac55309b6cd",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasedatabasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403809923128-ik25vpb34hhttq8kq9o0ibjioik27381.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwlIaAL5mLGZ9-5etf9SEumSz6c0duh2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403809923128-ik25vpb34hhttq8kq9o0ibjioik27381.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
